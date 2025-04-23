@@ -12,15 +12,15 @@ The task details are documented in the [SCT_DS_03.pdf](https://github.com/GollaS
 
 ##  Tools & Technologies
 
-- Python (Pandas, NumPy, Matplotlib, etc.)
-- Jupyter Notebook
-- Git & GitHub
+- Power BI
+- Excel
+- Kaggle
 - Data Visualization
 
 ##  Learnings
 
 Through this task, I enhanced my skills in:
-- Advanced data preprocessing
-- Exploratory data analysis
-- Insight generation using Python libraries
+- Data preprocessing
+- Data analysis
+- Insight generation using Power BI
 - Effective documentation of data science projects
